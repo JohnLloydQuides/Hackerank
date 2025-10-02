@@ -1,0 +1,3 @@
+For each element in arr, check if both arr[i] + d and arr[i] + 2*d exist in the array.
+If both exist, increment the count.
+Return the total count.

@@ -1,0 +1,3 @@
+Each letter maps to an index in h using ASCII codes.
+We find the tallest letter in the word.
+Multiply that height by the number of letters to get the area.

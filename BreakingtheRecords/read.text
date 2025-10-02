@@ -1,0 +1,3 @@
+Tracks the highest and lowest scores seen so far.
+Increments maxCount when a new highest score is found.
+Increments minCount when a new lowest score is found.

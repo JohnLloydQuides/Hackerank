@@ -1,0 +1,11 @@
+Function Name: SimpleArraySum
+
+Purpose:
+Calculates the sum of all elements in the array ar.
+
+How it Works:
+
+1.Initializes a variable sum to 0.
+2.Loops through each element in the array.
+3.Adds each element to sum.
+4.Returns the final sum.

@@ -1,0 +1,3 @@
+Splits the string into characters.
+Counts how many are uppercase (each uppercase marks a new word).
+Adds 1 for the first word (which starts with a lowercase letter).

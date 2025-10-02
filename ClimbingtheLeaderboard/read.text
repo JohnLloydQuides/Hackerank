@@ -1,0 +1,2 @@
+The climbingLeaderboard function calculates a player's rank after each 
+game by comparing their score to a sorted, duplicate-free leaderboard and determining where they fit in.

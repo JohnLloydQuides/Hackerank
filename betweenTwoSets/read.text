@@ -1,0 +1,10 @@
+Purpose:
+Counts the number of integers that are multiples of all elements in array a and factors of all elements in array b.
+
+How it Works:
+Starts with the first element of a (a[0]) and checks its multiples (a[0] * index) up to b[0].
+For each candidate number:
+Checks if it is divisible by every element in the rest of a (cloneA).
+Checks if every element in b is divisible by this candidate.
+If both conditions are true, increments the result counter.
+Returns the total count.

@@ -1,0 +1,3 @@
+First cycle: starts at 1, value 3
+Second cycle: starts at 4, value 6
+t = 4 is the start of the second cycle → value = 6

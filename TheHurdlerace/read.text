@@ -1,0 +1,3 @@
+Math.max(...height) finds the tallest hurdle.
+If k is already tall enough, no doses are needed.
+Otherwise, return the difference maxHurdle - k.

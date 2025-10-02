@@ -1,0 +1,2 @@
+Finds the next lexicographical permutation of the string w.
+If no such permutation exists, returns 

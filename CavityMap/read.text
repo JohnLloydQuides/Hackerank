@@ -1,0 +1,21 @@
+Read the grid:
+
+The grid is a list of strings, each string representing a row of digits.
+
+Convert to a mutable format:
+
+Strings are immutable, so convert each row to an array of characters for easy editing.
+
+Loop through the grid:
+
+Skip the border rows and columns (i.e., start from index 1 and go to n - 2).
+
+For each cell, compare its value to its four neighbors.
+
+Check for cavity:
+
+If the current cell is greater than top, bottom, left, and right neighbors, mark it as 'X'.
+
+Return the modified grid:
+
+Convert each row back to a string and return the final list.

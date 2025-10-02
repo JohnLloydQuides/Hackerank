@@ -1,0 +1,5 @@
+Day 1 starts with 5 shares.
+Each day:
+Likes = Math.floor(shared / 2)
+Total likes += likes
+Next day's shares = likes * 3

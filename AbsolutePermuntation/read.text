@@ -1,0 +1,4 @@
+For each position i (1-based), you want to find a permutation P such that |P[i] - i| = k.
+If k == 0, the identity permutation is the answer.
+If n % (2 * k) != 0, it’s impossible to construct such a permutation.
+Otherwise, alternate adding and subtracting k in blocks of size k.

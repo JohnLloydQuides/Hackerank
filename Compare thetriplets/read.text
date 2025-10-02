@@ -1,0 +1,3 @@
+he compareTriplets function compares two arrays of scores—one for Alice and one 
+for Bob—and awards a point to whoever has the higher score in each category, returning 
+the total points as an array like [AlicePoints, BobPoints].

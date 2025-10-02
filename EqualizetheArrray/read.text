@@ -1,0 +1,2 @@
+Count the frequency of each number and subtract the highest frequency 
+from the total number of elements to get the minimum deletions.

@@ -1,0 +1,3 @@
+Find the longest common prefix between s and t.
+Calculate the minimum number of operations needed to convert s to t.
+If k is enough and the difference is even, or if k is large enough to delete and rebuild both strings, return "Yes". Otherwise, return "No".

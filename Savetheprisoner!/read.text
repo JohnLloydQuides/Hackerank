@@ -1,0 +1,1 @@
+Use modular arithmetic to find the last prisoner: (s + m - 1) % n, and return n if the result is 0.

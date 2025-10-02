@@ -1,0 +1,2 @@
+Sorts an array of large numbers represented as strings.
+Compares by length first, then lexicographically if lengths are equal.

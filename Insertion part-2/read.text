@@ -1,0 +1,2 @@
+Iteratively insert each element into its correct position in the sorted portion of the array, 
+printing the array after each pass.

@@ -1,0 +1,1 @@
+For each number in the range [p, q], check if its square can be split into two parts that sum to the number itself.

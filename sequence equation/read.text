@@ -1,0 +1,3 @@
+First, find the position i such that p[i] = x → this is p⁻¹(x)
+Then find the position j such that p[j] = i → this is p⁻¹(p⁻¹(x))
+So for each x, the answer is y = p⁻¹(p⁻¹(x))

@@ -1,0 +1,10 @@
+Counts the number of "beautiful days" between i and j (inclusive).
+A day is beautiful if the absolute difference between the day and its reverse is divisible by k.
+
+How it Works:
+
+Loop through each day from i to j.
+Reverse the digits of the day.
+Calculate the absolute difference between the day and its reversed value.
+If this difference is divisible by k, increment the count.
+Return the total count.

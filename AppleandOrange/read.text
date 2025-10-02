@@ -1,0 +1,4 @@
+For each apple, calculate its landing position (a + apples[i]).
+For each orange, calculate its landing position (b + oranges[i]).
+Count how many apples and oranges land within the house range [s, t].
+Print the counts (one per line).

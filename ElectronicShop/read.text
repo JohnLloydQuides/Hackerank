@@ -1,0 +1,2 @@
+Loop through all keyboard and drive combinations, track the highest sum that’s within budget, 
+and return -1 if no valid pair exists.

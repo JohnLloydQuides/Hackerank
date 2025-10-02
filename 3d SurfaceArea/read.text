@@ -1,0 +1,6 @@
+Top and Bottom:
+Each cell contributes 2 units (top and bottom) if its height > 0.
+
+Sides:
+For each cell, compare its height with its four neighbors (up, down, left, right).
+For each side, add the difference if the current cell is taller than its neighbor (or the full height if the neighbor is out of bounds).

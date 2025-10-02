@@ -1,0 +1,2 @@
+Finds the maximum height in the candles array.
+Counts and returns how many candles have that maximum height (i.e., how many can be blown out).

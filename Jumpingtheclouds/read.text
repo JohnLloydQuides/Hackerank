@@ -1,0 +1,1 @@
+Greedily jump 2 steps when possible, otherwise jump 1 step, and count the total jumps.

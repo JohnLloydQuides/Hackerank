@@ -1,0 +1,7 @@
+It records how many sticks are present before each cut.
+
+It finds the shortest stick and subtracts that length from all sticks.
+
+It removes any sticks that are now zero.
+
+It repeats until no sticks remain.

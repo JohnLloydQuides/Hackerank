@@ -1,0 +1,3 @@
+Initializes sum as BigInt(0).
+Loops through each element, adds it as a BigInt.
+Returns the sum as a string (to avoid issues with file writing).

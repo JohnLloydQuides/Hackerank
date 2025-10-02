@@ -1,0 +1,2 @@
+For each pair of people, count the number of topics at least one of them knows ('1' in either string).
+Track the maximum topics any team knows and how many teams achieve that.

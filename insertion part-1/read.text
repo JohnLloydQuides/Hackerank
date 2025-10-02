@@ -1,0 +1,1 @@
+Shift elements to the right until the correct spot for the last element is found, printing the array after each shift.

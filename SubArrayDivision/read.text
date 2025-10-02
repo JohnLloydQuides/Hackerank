@@ -1,0 +1,4 @@
+Loop through all possible starting indices for a segment of length m.
+Use slice(i, i + m) to extract the segment.
+Use reduce to compute the sum.
+Increment count if the sum matches d.

@@ -1,0 +1,3 @@
+et(s) automatically filters out duplicate characters.
+size gives the count of distinct characters.
+Each distinct character costs 1 to add; reused ones are free.

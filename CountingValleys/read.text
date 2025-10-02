@@ -1,0 +1,4 @@
+The countingValleys function tracks a hiker's altitude as they move up and down a path 
+of steps, and counts how many times they enter and exit a valley—defined as a 
+sequence of steps below sea level that starts with a step down and ends when they 
+return to sea level.

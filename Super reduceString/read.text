@@ -1,0 +1,5 @@
+Traverse the string character by character.
+Use a stack to track characters.
+If the current character matches the top of the stack, pop it (remove the pair).
+Otherwise, push the character onto the stack.
+At the end, join the stack into a string or return "Empty String" if it's empty.

@@ -1,0 +1,2 @@
+You calculate the sum of the primary diagonal (top-left to bottom-right) and the secondary diagonal 
+(top-right to bottom-left), then return the absolute difference between them.

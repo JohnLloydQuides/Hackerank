@@ -1,0 +1,2 @@
+Print (n - i) spaces followed by i hash symbols.
+This creates a staircase that aligns to the right.

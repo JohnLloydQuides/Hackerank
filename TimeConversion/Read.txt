@@ -1,0 +1,7 @@
+Extract the hour (s.slice(0, 2)), the AM/PM modifier (s.slice(-2)), and the rest of the time (s.slice(2, -2)).
+Convert the hour based on whether it's AM or PM:
+12 AM → 00
+12 PM → 12
+Other AM → unchanged
+Other PM → add 12
+Pad the hour to two digits and concatenate with the rest.

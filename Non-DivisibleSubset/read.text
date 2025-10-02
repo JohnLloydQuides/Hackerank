@@ -1,0 +1,1 @@
+Count remainders modulo k, then greedily select the best combination avoiding pairs that sum to k.

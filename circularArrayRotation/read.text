@@ -1,0 +1,5 @@
+An array a of integers.
+
+A number k representing how many times to rotate the array to the right.
+
+A list of queries, which are indices. After rotation, you need to return the values at those indices.
